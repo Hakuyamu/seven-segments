@@ -1,7 +1,7 @@
 object FSegmentUhr: TFSegmentUhr
-  Left = 85
+  Left = 258
   Height = 57
-  Top = 128
+  Top = 500
   Width = 383
   Caption = 'Segment Uhr'
   ClientHeight = 57
@@ -9,7 +9,7 @@ object FSegmentUhr: TFSegmentUhr
   OnCreate = FormCreate
   OnDestroy = FormDestroy
   Position = poScreenCenter
-  LCLVersion = '2.0.8.0'
+  LCLVersion = '2.0.12.0'
   object EEingabe: TEdit
     Left = 16
     Height = 23
